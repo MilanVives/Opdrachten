@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-11-06T12:37:06.688Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" version="20.5.2" etag="AbHRaUf-qnpa9JCr8qef" type="github"><diagram id="FSnIyCRH3hDxg1Sqs9tr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-06T12:46:04.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.1 Safari/605.1.15" etag="D3Fg1LMv1mLYy_emtTqJ" version="20.5.2" type="github">
+  <diagram id="FSnIyCRH3hDxg1Sqs9tr" name="Page-1">
+    <mxGraphModel dx="1998" dy="1042" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="a91rDpJnSbZy7y78ed_X-19" value="Activity Main" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="110" y="530" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-10" value="Fragment Main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="560" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-11" value="Activity User Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="160" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-12" value="Activity Main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="160" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-13" value="1 Binding toevoegen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-14" value="2 Activities aanmaken (main en User detail" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="90" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-15" value="INTENT" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="270" as="sourcePoint" />
+            <mxPoint x="450" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-16" value="3 Fragment toevoegen aan Activity main en Button + TextView verplaatsen" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="440" width="440" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-17" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="145" y="310" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-18" value="Activity User Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="520" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-20" value="INTENT" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="630" as="sourcePoint" />
+            <mxPoint x="450" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-21" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="145" y="670" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-22" value="" style="endArrow=none;html=1;rounded=0;fillColor=#f8cecc;strokeColor=#b85450;strokeWidth=9;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="660" as="sourcePoint" />
+            <mxPoint x="380" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-23" value="4 Navigation Graph toevoegen zodat we kunnen navigeren naar onze User Detail Activity" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="830" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-24" value="Activity Main" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="900" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-25" value="Fragment Main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="930" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-26" value="Activity User Detail" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="890" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-27" value="Navigation Graph" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1000" as="sourcePoint" />
+            <mxPoint x="440" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-28" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1040" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-30" value="5 Fragment toevoegen aan Activity User detail en Navigation User aanmaken en daarin laden" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="1200" width="500" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-31" value="Activity Main" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="100" y="1340" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-32" value="Fragment Main" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1370" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-33" value="Activity User Detail" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1330" width="140" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-34" value="Navigation Graph" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1440" as="sourcePoint" />
+            <mxPoint x="440" y="1440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-35" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="135" y="1480" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-36" value="Fragment User" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="1360" width="120" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="a91rDpJnSbZy7y78ed_X-37" value="Button" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#0085FC;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=16;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="485" y="1470" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
